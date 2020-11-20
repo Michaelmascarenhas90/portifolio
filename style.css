@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: azure;
+}
+
+.menu{
+    background-color:#EDEDED;
+    list-style:none;
+    
+}
+.menu ul li {
+    display: inline;
+}
+
+.sobre {
+    font-family: 'Roboto', sans-serif;
+}
+.nome {
+    font-family: 'Recursive', sans-serif;
+}
