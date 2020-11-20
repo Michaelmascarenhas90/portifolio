@@ -3,12 +3,12 @@ body {
     background-color: azure;
 }
 
-.menu{
+#menu{
     background-color:#EDEDED;
     list-style:none;
     
 }
-.menu ul li {
+#menu ul li {
     display: inline-block;
     padding-right: 4px;
 }
